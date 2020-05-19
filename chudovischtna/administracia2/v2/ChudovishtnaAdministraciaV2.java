@@ -290,7 +290,7 @@ public class ChudovishtnaAdministraciaV2 {
                 if (count > initCount){
                     System.out.println("Broyat na povtaryashtite se dumi e: \n" + count);
                 }
-                System.out.println("Nyama povtaryashti se dumi.")
+                System.out.println("Nyama povtaryashti se dumi.");
             }
         }
 
